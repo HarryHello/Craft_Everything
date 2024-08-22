@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "GGG",
+      "OSO",
+      "GGG"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:obsidian"
+      },
+      "S": {
+        "item": "minecraft:crying_obsidian"
+      },
+      "O": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "result": {
+      "id": "minecraft:heavy_core",
+      "count": 1
+    }
+  }
+  

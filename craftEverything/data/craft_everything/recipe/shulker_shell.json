@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "###",
+      "#X#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:popped_chorus_fruit"
+      },
+      "X": {
+        "item": "minecraft:blaze_powder"
+      }
+    },
+    "result": {
+      "id": "minecraft:shulker_shell",
+      "count": 1
+    }
+  }
+  

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "XSX",
+      "#&#",
+      "# #"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "&": {
+        "item": "minecraft:blaze_powder"
+      },
+      "S": {
+        "item": "minecraft:shulker_shell"
+      },
+      "X": {
+        "item": "minecraft:string"
+      }
+    },
+    "result": {
+      "id": "minecraft:elytra",
+      "count": 1
+    }
+  }
+  

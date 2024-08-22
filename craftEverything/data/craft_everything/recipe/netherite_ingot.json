@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "netherite_ingot",
+    "pattern": [
+      "PPP",
+      "PSP",
+      "PPP"
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "S": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "result": {
+      "id": "minecraft:netherite_ingot",
+      "count": 9
+    }
+  }
+  

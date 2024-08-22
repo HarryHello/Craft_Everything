@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "redstone",
+    "ingredients": [
+      {
+        "item": "minecraft:command_block"
+      },
+      {
+        "item": "minecraft:minecart"
+      }
+    ],
+    "result": {
+      "id": "minecraft:command_block_minecart",
+      "count": 1
+    }
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smoking",
+    "category": "building",
+    "ingredient": {
+      "item": "minecraft:cobblestone"
+    },
+    "result": {
+      "id": "minecraft:blackstone"
+    },
+    "cookingtime": 20
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "#&X",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:calcite"
+      },
+      "X": {
+        "item": "minecraft:glass"
+      },
+      "&": {
+        "item": "minecraft:shulker_shell"
+      }
+    },
+    "result": {
+      "id": "minecraft:nautilus_shell",
+      "count": 4
+    }
+  }
+  

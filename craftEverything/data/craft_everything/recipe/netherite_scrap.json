@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "X": {
+        "item": "minecraft:nether_brick"
+      }
+    },
+    "result": {
+      "id": "minecraft:netherite_scrap",
+      "count": 9
+    }
+  }
+  

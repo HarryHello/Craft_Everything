@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " # ",
+      "#X#",
+      "XXX"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:turtle_scute"
+      },
+      "X": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "id": "minecraft:turtle_egg",
+      "count": 4
+    }
+  }
+  

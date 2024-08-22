@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      "###",
+      "1X1",
+      " X "
+    ],
+    "key": {
+      "1": {
+        "item": "minecraft:prismarine_crystals"
+      },
+      "#": {
+        "item": "minecraft:diamond_sword"
+      },
+      "X": {
+        "item": "minecraft:prismarine_shard"
+      }
+    },
+    "result": {
+      "id": "minecraft:trident",
+      "count": 1
+    }
+  }
+  
